@@ -1,5 +1,4 @@
 # Nova
-
 Nova is an AI-powered note processing and search system that provides semantic search capabilities through vector embeddings and MCP integration.
 
 ## Prerequisites
